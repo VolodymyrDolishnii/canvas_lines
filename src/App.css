@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.collapseButton {
+    display: block;
+
+    font-size: 20px;
+
+    margin-bottom: 4px;
+    margin-left: 505px;
+    transform: translateX(-50%);
+
+}
