@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/canvas_lines/static/css/main.ff57fca6.css",
+    "main.js": "/canvas_lines/static/js/main.ffe09224.js",
+    "index.html": "/canvas_lines/index.html",
+    "main.ff57fca6.css.map": "/canvas_lines/static/css/main.ff57fca6.css.map",
+    "main.ffe09224.js.map": "/canvas_lines/static/js/main.ffe09224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff57fca6.css",
+    "static/js/main.ffe09224.js"
+  ]
+}
